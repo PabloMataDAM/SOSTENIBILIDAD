@@ -1,10 +1,10 @@
 # SOSTENIBILIDAD
 
 ### 17102025
-
+En esta clase hemos hablado de si vivimos solos o no, de como nos relacionamos con los dem&aacute;s seres vivos del planeta y como vivimos en sociedad, la naturaleza y las reflexiones a la hora de sobrevivir. La pregunta de hoy es: ¿Qu&eacute; hacemos nosotros: coopearmos o competimos? Yo dir&iacute;a que depende mucho de a que nos refiramos, ya que en funci&oacute;n del contexto las personas podemos cooperar o competir, es una pregunta muy ambigua.
 
 ### 10102025
-No pude asistir este día, pero mis compañeros me han comentado que estuvieron tratando
+No pude asistir este d&iacute;a, pero mis compañeros me han comentado que estuvieron tratando de los l&iacute;mites de carga de los ecosistema, es decir de la capacidad m&aacute;xima de individuos que caben en los ecosistemas. La pregunta es: ¿Hay un l&iacute;mite para la poblaci&oacute;n humana? Bajo mi punto de vista s&iacute;, es decir, muchos recursos del planeta no son infinitos, y esto puede hacer que una sobrepoblaci&oacute;n sea un problema en el planeta.
 
 # OCTUBRE
 # SEPTIEMBRE
