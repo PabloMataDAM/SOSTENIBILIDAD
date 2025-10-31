@@ -2,6 +2,9 @@
 
 # OCTUBRE
 
+### SESION 7 31102025
+En esta clase hemos estado hablando sobre la sostenibilidad del agua y las "3 facetas en las que dividir el mundo", ambiental, social y econ&oacute;mica, Tambi&eacute;n se nos ha asignado una tarea para el trabajo grupal, que va de qeu cada uno ponga en el proyecto una medida de sostenibilidad.
+
 ### SESION 6 24102025
 En esta clase hemos hablado de las pautas sobre el proyecto grupal del m&oacute;dulo y de la clasificaci&oacute;n de los seres vivos en estrategia K y estrategia R de reproducci&oacute;n. La pregunta de hoy es: ¿Qu&eacute; estrategia llevamos los humanos? Yo dir&iacute;a que hemos ido cambiando, antes era m&aacute;s com&uacute;n la estrategia R y ahora es m&aacute;s com&uacute;n la K, tambi&eacute;n depende de las culturas, pero generalmente y comparado con otras especies, es K.
 
