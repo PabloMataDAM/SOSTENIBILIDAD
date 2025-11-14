@@ -1,5 +1,34 @@
 # SOSTENIBILIDAD
 
+### SESION 9 14112025 - El viaje oculto del producto
+En esta clase hemos hablado del análisis del ciclo de vida de un producto y su peso oculto que significa que si por ejemplo un movil pesa 150g, el peso de materiales gastado para llegar a esos 150g pueden ser quizás 80kg, que serían su peso oculto. También de las 2 principales manera de obtener energía y otras alternativas. Hoy tenemos que preguntar a nuestra IA de confianza sobre los materiales implicados en una de las fases del ciclo de vida de un producto, yo elegí una PSU de ordenador y la fase de fabricación:
+
+Prompt: para conseguir fabricar una PSU de ordenador que materiales y energias se utilizan?
+
+Respuesta: Una PSU se fabrica usando sobre todo cobre (bobinas, cables), aluminio (disipadores y carcasa), acero, silicio (chips y semiconductores), plásticos (ventilador, conectores, aislantes) y ferrita (núcleos de transformadores e inductores). También entran materiales como estaño para soldaduras, epoxi y fibra de vidrio para la PCB, y pequeños imanes y resinas aislantes.
+
+A nivel energético, se consume mucha electricidad en:
+
+Minería y refinado de metales como cobre y aluminio.
+
+Fabricación de chips, que necesita hornos, salas limpias y procesos químicos intensivos.
+
+Producción de PCB, que implica corte, baños químicos y horneado.
+
+Montaje: máquinas de pick-and-place, hornos de soldadura, soldadura manual y test de carga.
+
+Logística, desde el transporte de materias primas hasta el envío de la PSU terminada.
+
+El peso oculto está en toda esta cadena: toneladas de roca movida para obtener unos gramos de metal, energía enorme para fundir y purificar, procesos químicos que generan residuos y uso de maquinaria industrial. Aunque una PSU final pesa 1–2 kg, su “peso real” en materiales y energía es mucho mayor.
+
+Imagen de hoy:
+
+![Imagen de la sesión 9](images9.png)
+
+### SESION 8 07112025
+En esta clase Miguel no pudo asistir, as&iacute; que no tratamos ningun tema.
+
+# NOVIEMBRE
 # OCTUBRE
 
 ### SESION 7 31102025
