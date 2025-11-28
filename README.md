@@ -1,5 +1,21 @@
 # SOSTENIBILIDAD
 
+# DICIEMBRE
+# NOVIEMBRE
+
+### SESION 11 28112025 - Economia lineal y circular
+En esta clase hemos hablado de la economia circular y como hemos avanzado como sociedad, la economia circular es una economia que se retroalimenta de modo que genera empleo para que se de un reciblaje y una sostenibilidad. Se ha comentado como ejemplo un coche al convertirlo en chatarra.
+
+La pregunta de hoy es: ¿En qué nos afecta el ecodiseño?
+Por lo que he podido ver, el ecodiseño es la metodología que se basa en reducir el impacto ambiental en todas las fases del desarrollo de un producto, diría que nos afecta a la hora de la realidad de esto, es decir, cuantas cosas se desarrollan como "eco" pero su "ecodiseño" realmente es mas costoso que un diseño normal, y hasta que punto es algo real y no una idea utópica? no me queda claro del todo si esto es algo realmente posible en la actualidad.
+
+Imagen de hoy:
+
+![Imagen de la sesion 10](images10.png)
+
+### SESION 10 21112025
+En esta clase Miguel no pudo asistir, as&iacute; que no tratamos ningun tema.
+
 ### SESION 9 14112025 - El viaje oculto del producto
 En esta clase hemos hablado del análisis del ciclo de vida de un producto y su peso oculto que significa que si por ejemplo un movil pesa 150g, el peso de materiales gastado para llegar a esos 150g pueden ser quizás 80kg, que serían su peso oculto. También de las 2 principales manera de obtener energía y otras alternativas. Hoy tenemos que preguntar a nuestra IA de confianza sobre los materiales implicados en una de las fases del ciclo de vida de un producto, yo elegí una PSU de ordenador y la fase de fabricación:
 
