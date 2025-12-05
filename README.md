@@ -1,5 +1,14 @@
 # SOSTENIBILIDAD
 
+### SESION 12 05122025 - Huella ecológica y huella de carbono
+En esta clase hemos hablado de la huella ecológica y la huella de carbono, por lo que he entendido la huella de carbono mide todas las emisiones que generamos directa o indirectamente y la huella ecologica mide la cantidad de recursos naturales que necesitamos para mantener nuestro estilo de vida.
+
+La tarea de hoy ha sido completar el quiz de footprintcalculator.org y mostrar nuestros resultados:
+
+Imagen de hoy:
+
+![Imagen de la sesion 12](images12.png)
+
 # DICIEMBRE
 # NOVIEMBRE
 
@@ -11,7 +20,7 @@ Por lo que he podido ver, el ecodiseño es la metodología que se basa en reduci
 
 Imagen de hoy:
 
-![Imagen de la sesion 10](images10.png)
+![Imagen de la sesion 11](images11.png)
 
 ### SESION 10 21112025
 En esta clase Miguel no pudo asistir, as&iacute; que no tratamos ningun tema.
