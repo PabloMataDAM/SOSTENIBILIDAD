@@ -1,5 +1,15 @@
 # SOSTENIBILIDAD
 
+### SESION 13 12122025 - El cambio climático
+En esta clase hemos hablado del cmabio climático y como este puede afectar, incluso, a conflictos entre paises, de como los recursos cambian y como nuestra sociedad cambiará en el momento en el que este empiece a suponer un problema a nivel tan grande y lo note todo el mundo, como por ejemplo al morir gente de malaria en sevilla, o al tener un calor insoportable en jumilla, que supone que los montes estén "negros", mi opinión sobre todo esto es que historicamente la tierra siempre ha pasado por etapas, en las que el clima ha cambiado, y es posible que esto no sea mas que una de esas etapas, pero no lo tengo claro, y no estoy especialmente informado en el tema, así que no puedo decir nada más.
+
+las preguntas de hoy son: ¿Cual es el principal emisor de co2?¿Que sistemas resilientes podrías crear para combatir el cambio climático en tu sector?
+El principal emisor de co2 del mundo es china. Y sobre la pregunta de que podríamos hacer, en la empresa en la que trabajo, hemos implementado junto con otros departamentos además del de informática, un sistema BMS que ayuda a tomar datos sobre el consumo de la energía en la empresa, además de concienciar a los usuarios de apagar siempre sus equipos informáticos al acabar sus jornadas laborales. También, desde hace tiempo hacemos uso de la energía solar y exponencialmente, cambiamos todos los equipos informáticos de la empresa por equipos mas modernos, con menor consumo y menor carga de trabajo. Bajo mi punto de vista estas son las acciones que podríamos tomar, sumandolas a reciclar correctamente todos los residuos que se generen informáticamente, entre otras.
+
+Imagen de hoy:
+
+![alt text](images13.png)
+
 ### SESION 12 05122025 - Huella ecológica y huella de carbono
 En esta clase hemos hablado de la huella ecológica y la huella de carbono, por lo que he entendido la huella de carbono mide todas las emisiones que generamos directa o indirectamente y la huella ecologica mide la cantidad de recursos naturales que necesitamos para mantener nuestro estilo de vida.
 
