@@ -1,5 +1,20 @@
 # SOSTENIBILIDAD
 
+### SESION 14 09122025
+
+En esta clase hemos hablado de la contaminación y los residuos, de como estos conceptos no son lo mismo y que significan cada uno, que pasa con los residuos y donde van una vez los desechamos en el "primer mundo" y a su vez como esto contamina, tanto con microplásticos como con disruptores hormonales, que acaban siendo nocivos para todos.
+
+Como reflexión personal: Puedo decir que este problema no me llama en general la atención, creo que nuestra sociedad al final avanza en ese rumbo y un cambio es una posibilidad muy remota, si bien se puede minimizar, pero no creo que parar al 100%. Al final lo más sano para la sociedad es vivir como en la prehistoria, pero no es posible ya que el mundo avanza. Se puede vivir de manera mas sostenible, pero no se puede cortar el avance.
+
+Pregunta de hoy ¿Por que cambias de movil? La respuesta a esta pregunta me resulta algo sencilla, hoy en día prácticamente se puede decir que un móvil es necesario para vivir en sociedad, y por lo tanto, cambiar de móvil es algo que hace cualquier persona ya que o bien se rompe y queda inutilizable, o bien te puedes permitir uno que prefieras, o, aun que no esté inutilizable, prefieres cambiar ya que lo que le pase a tu dispositivo no es cómodo, mucha gente aprovecha el dispositivo que reemplaza para dárselo a alguna otra persona, y otra, simplemente lo tira, depende mucho del caso en concreto.
+
+Imagen de hoy:
+
+![alt text](images14.png)
+
+# ENERO
+# DICIEMBRE
+
 ### SESION 13 12122025 - El cambio climático
 En esta clase hemos hablado del cmabio climático y como este puede afectar, incluso, a conflictos entre paises, de como los recursos cambian y como nuestra sociedad cambiará en el momento en el que este empiece a suponer un problema a nivel tan grande y lo note todo el mundo, como por ejemplo al morir gente de malaria en sevilla, o al tener un calor insoportable en jumilla, que supone que los montes estén "negros", mi opinión sobre todo esto es que historicamente la tierra siempre ha pasado por etapas, en las que el clima ha cambiado, y es posible que esto no sea mas que una de esas etapas, pero no lo tengo claro, y no estoy especialmente informado en el tema, así que no puedo decir nada más.
 
