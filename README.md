@@ -1,6 +1,14 @@
 # SOSTENIBILIDAD
 
-### SESION 14 09122025
+### SESION 15 16012026
+
+En esta clase hemos hablado de la agenda 2030 y los ODS, de como "los ciudadanos han elegido" que esto se lleve a cabo y como esto funciona, que son, quienes los han creado y cual es su objetivo.
+
+Como reflexión personal: Diré que me parece una solución ambigua, que se escuda en la ética de nuestra sociedad y que intenta vender algo sobre lo que no se puede estar en contra para acabar beneficiando a unos pocos, además de no cumplir con su objetivo principal y generar malestar en ciertos ámbitos, me parece una solución poco útil y no estoy de acuerdo con la manera de llevarla a cabo. Además, al etiquetar políticas como "Agenda 2030" hacen que estas sean neutrales y consiguen la posibilidad de llamar negacionista o antiprogreso a quien se oponga a ellas, es una instrumentalización e imposición política e ideológica. Es un riesgo para la libertad individual, ya que si no estás de acuerdo tienes problemas. Esto afecta a como vivimos, que comemos, como nos movemos y restringe decisiones personales legítimas. Como conclusión, siempre se ha visto mal imponer al pueblo y se le ha llamado totalitarismo, fascismo, Autoritarismo; y este caso no es más que lo mismo, pero enmascarado.
+
+Pregunta de hoy ¿Se van a cumplir los ODS? Mi respuesta es NO, y mucho menos en la fecha elegida. Creo que la Agenda 2030 es utópica, irreal, y pese a que la ética como decía antes es la correcta, la manera de ejecutar esta tarea no, es una decisión que se toma muy lejos del ciudadano final, y a la que no podemos oponernos, como se ha hablado en clase, es una imposición. Además de ser ambigua y con excesiva centralizción de poder, tiene un coste económico elevado, que acabaremos pagando los ciudadanos, un impacto negativo en la economía productiva, como hemos hablado en clase. En clase se ha hablado de como todos tenemos que cumplirlos, pero no se habla de los que no lo hacen, que no tienen ninguna sanción. Estos ODS son desiguales, producir es mas caro, e importar de sitios donde no se cumplan, es mas barato. Me supone un pelín de inquietud, que al no cumplirse los plazos, en lugar de hacer autocrítica simplemente se pidan más recursos y creemos una bola de nieve.
+
+### SESION 14 09012026
 
 En esta clase hemos hablado de la contaminación y los residuos, de como estos conceptos no son lo mismo y que significan cada uno, que pasa con los residuos y donde van una vez los desechamos en el "primer mundo" y a su vez como esto contamina, tanto con microplásticos como con disruptores hormonales, que acaban siendo nocivos para todos.
 
